@@ -1,6 +1,6 @@
 <!-- GitHub Profile README - 金腾辉 -->
 
-# Hi, I'm 金腾辉 (Tenghui) 👋
+# Hi, I'm 金腾辉 (Debra) 👋
 
 **AI Product Manager · Building AI-native products @ AI startup**
 > 用产品思维打磨 AI 体验 | AI Eval · Prompt Eng · Agent Workflow
