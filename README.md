@@ -5,6 +5,7 @@
 **AI Product Manager · Building AI-native products @ AI startup**
 > 用产品思维打磨 AI 体验 | AI Eval · Prompt Eng · Agent Workflow
 
+**个人网站：https://jths.info/**
 ---
 
 ## 🔭 现在在做什么
