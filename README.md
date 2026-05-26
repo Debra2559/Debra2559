@@ -43,40 +43,40 @@
 
 ---
 
+
+
 ## 🔭 现在在做什么
 
+🟣 **搭建 AI 评测体系** &nbsp; ![进行中](https://img.shields.io/badge/进行中-6E40C9?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 300+ 评测集 & Trace SOP · 推进 7 大优化专项落地
 
-**📊 搭建 AI 评测体系** &nbsp; `进行中`
-> 300+ 评测集 & Trace SOP · 推进 7 大优化专项落地
+🔵 **AI 生成网站全模块设计** &nbsp; ![主导落地](https://img.shields.io/badge/主导落地-2980B9?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 含美观度优化 · 多轮编辑体验优化
 
-**🎨 AI 生成网站全模块设计** &nbsp; `主导落地`
-> 含美观度优化、多轮编辑体验优化
+🟢 **Openclaw 产品化** &nbsp; ![持续推进](https://img.shields.io/badge/持续推进-1D9E75?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ IM / 定时任务 / Memory 模块设计落地
 
-**🤖 Openclaw 产品化** &nbsp; `持续推进`
-> IM / 定时任务 / Memory 模块设计落地
-
-**🚀 更多 AI 产品方向**
-> AI 生成 PPT · AI 语音 · AI 渲染地图
+⚪ **更多 AI 产品方向**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ AI 生成 PPT · AI 语音 · AI 渲染地图
 
 ---
 
 ## 🎸 下班之后
 
+🔴 **钢琴** &nbsp; ![初学中](https://img.shields.io/badge/初学中-E74C3C?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 目标：弹完 Wedding Dream 🎹
 
-**🎹 钢琴** &nbsp; `初学中`
-> 目标：弹完 Wedding Dream
+🟡 **游泳 & 徒步** &nbsp; ![持续进行中](https://img.shields.io/badge/持续进行中-F39C12?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 游泳保持体能 🏊 · 徒步周末限定，探索更多山野 🥾
 
-**🏊 游泳 · 🥾 徒步** &nbsp; `持续进行中`
-> 游泳保持体能 · 徒步周末限定，探索更多山野
+🟠 **Vibe Coding** &nbsp; ![随时随地](https://img.shields.io/badge/随时随地-D85A30?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 边做边学，随手造小工具 💻
 
-**💻 Vibe Coding** &nbsp; `随时随地`
-> 边做边学，随手造小工具
-
-**📕 小红书创作** &nbsp; `活跃更新`
-> 44.1K 赞藏，欢迎来逛 → [点击主页](https://xhslink.com/m/AtEGd4scL9d)
-
+🩷 **小红书创作** &nbsp; ![活跃更新](https://img.shields.io/badge/活跃更新-FF2442?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 44.1K 赞藏，[欢迎来逛](https://xhslink.com/m/AtEGd4scL9d) 📕
 
 ---
+
 
 <div align="center">
 
