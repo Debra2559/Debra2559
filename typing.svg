@@ -1,0 +1,66 @@
+<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text { font-family: 'Fira Code', 'Courier New', monospace; font-size: 24px; fill: #6E40C9; }
+      .cursor { fill: #6E40C9; }
+
+      /* 每条文字的出现/消失动画 */
+      .line1 { animation: show1 16s infinite; }
+      .line2 { animation: show2 16s infinite; }
+      .line3 { animation: show3 16s infinite; }
+      .line4 { animation: show4 16s infinite; }
+
+      @keyframes show1 {
+        0%   { opacity: 1; }
+        22%  { opacity: 1; }
+        25%  { opacity: 0; }
+        98%  { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      @keyframes show2 {
+        0%   { opacity: 0; }
+        22%  { opacity: 0; }
+        25%  { opacity: 1; }
+        47%  { opacity: 1; }
+        50%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      @keyframes show3 {
+        0%   { opacity: 0; }
+        47%  { opacity: 0; }
+        50%  { opacity: 1; }
+        72%  { opacity: 1; }
+        75%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      @keyframes show4 {
+        0%   { opacity: 0; }
+        72%  { opacity: 0; }
+        75%  { opacity: 1; }
+        97%  { opacity: 1; }
+        100% { opacity: 0; }
+      }
+
+      /* 光标闪烁 */
+      .cursor-blink {
+        animation: blink 0.8s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- 背景透明 -->
+  <rect width="600" height="80" fill="none"/>
+
+  <!-- 文字行（居中） -->
+  <text x="300" y="50" text-anchor="middle" class="text line1">Hi, I'm 金腾辉 (Tenghui) 👋</text>
+  <text x="300" y="50" text-anchor="middle" class="text line2">AI Product Manager 🚀</text>
+  <text x="300" y="50" text-anchor="middle" class="text line3">Building AI-native Products ⚡</text>
+  <text x="300" y="50" text-anchor="middle" class="text line4">Vibe Coder | Piano Learner 🎹</text>
+
+  <!-- 光标 -->
+  <rect x="570" y="30" width="3" height="28" class="cursor cursor-blink"/>
+</svg>
