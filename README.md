@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm 金腾辉 (Tenghui)
+<!-- 打字机动画：本地 SVG，无需外部服务，永不裂图 -->
+<img src="./typing.svg" width="600" alt="Typing Animation"/>
 
 ### AI Product Manager · Building AI-native Products
-
 > 用产品思维打磨 AI 体验 | AI Eval · Prompt Eng · Agent Workflow
 
 <br>
@@ -83,17 +83,6 @@ class AIProductManager:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Debra2559&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debra2559&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎸 下班之后
 
 | 爱好 | 状态 | 目标 |
@@ -110,7 +99,6 @@ class AIProductManager:
 
 **"用产品思维打磨 AI 体验，用 AI 工具放大产品价值"**
 
-<!-- 蛇形动画（需先配置 GitHub Actions，见仓库 workflow） -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debra2559/Debra2559/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debra2559/Debra2559/output/github-contribution-grid-snake.svg" />
