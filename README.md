@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 打字机动画：本地 SVG，无需外部服务，永不裂图 -->
-<img src="./typing.svg" width="600" alt="Typing Animation"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%E9%87%91%E8%85%BE%E8%BE%89+(Tenghui)+%F0%9F%91%8B;AI+Product+Manager+%F0%9F%9A%80;Building+AI-native+Products+%E2%9A%A1;Vibe+Coder+%7C+Piano+Learner+%F0%9F%8E%B9)](https://git.io/typing-svg)
 
 ### AI Product Manager · Building AI-native Products
 > 用产品思维打磨 AI 体验 | AI Eval · Prompt Eng · Agent Workflow
@@ -20,24 +19,10 @@
 
 ## 🧠 About Me
 
-```python
-class AIProductManager:
-    name     = "金腾辉 (Tenghui Jin)"
-    alias    = "Debra"
-    role     = "AI Product Manager @ AI Startup (校招提前批)"
-    focus    = ["AI 生成网站", "Openclaw 产品化", "LLM Evaluation"]
-
-    skills   = {
-        "Product"  : ["PRD 设计", "用户研究", "竞品分析", "数据驱动决策"],
-        "AI/ML"    : ["Prompt Eng", "Content Eng", "Harness 工程", "Lora Fine-tune"],
-        "Workflow" : ["Agent Workflow", "Vibe Coding", "AI 评测体系"],
-    }
-
-    fun_fact = "用 AI 工具提效团队，也用 AI 陪自己练钢琴 🎹"
-
-    def say_hi(self):
-        print("欢迎来到我的 GitHub！一起用产品思维打磨 AI 体验 🚀")
-```
+- 💼 AI Product Manager @ AI Startup（校招提前批）
+- 🎯 专注方向：AI 生成网站 · Openclaw 产品化 · LLM Evaluation
+- 🛠️ 熟悉 Prompt Eng · Content Eng · Harness 工程 · Lora Fine-tune · Agent Workflow
+- ✨ 用 AI 工具提效团队，也用 AI 陪自己练钢琴 🎹
 
 ---
 
@@ -60,38 +45,36 @@ class AIProductManager:
 
 ## 🔭 现在在做什么
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 📊 效果优化
-- 搭建 **300+** 评测集 & Trace SOP
-- 推进 **7 大**优化专项落地
-- 美观度优化 · 多轮编辑优化
+**📊 搭建 AI 评测体系** &nbsp; `进行中`
+> 300+ 评测集 & Trace SOP · 推进 7 大优化专项落地
 
-</td>
-<td width="50%" valign="top">
+**🎨 AI 生成网站全模块设计** &nbsp; `主导落地`
+> 含美观度优化、多轮编辑体验优化
 
-### 🎨 功能设计
-- 主导 **AI 生成网站**全模块设计
-- **Openclaw** IM / 定时任务 / Memory 模块
-- AI 生成 PPT · AI 语音 · AI 渲染地图
+**🤖 Openclaw 产品化** &nbsp; `持续推进`
+> IM / 定时任务 / Memory 模块设计落地
 
-</td>
-</tr>
-</table>
+**🚀 更多 AI 产品方向**
+> AI 生成 PPT · AI 语音 · AI 渲染地图
 
 ---
 
 ## 🎸 下班之后
 
-| 爱好 | 状态 | 目标 |
-|------|------|------|
-| 🎹 钢琴 | 初学中 | 弹完 Wedding Dream |
-| 🏊 游泳 | 持续进行中 | 保持体能 |
-| 🥾 徒步 | 周末限定 | 探索更多山野 |
-| 💻 Vibe Coding | 随时随地 | 做 4 个有用的小工具 |
-| 📕 小红书创作 | 活跃更新 | 44.1K 赞藏 → 更多 |
+
+**🎹 钢琴** &nbsp; `初学中`
+> 目标：弹完 Wedding Dream
+
+**🏊 游泳 · 🥾 徒步** &nbsp; `持续进行中`
+> 游泳保持体能 · 徒步周末限定，探索更多山野
+
+**💻 Vibe Coding** &nbsp; `随时随地`
+> 边做边学，随手造小工具
+
+**📕 小红书创作** &nbsp; `活跃更新`
+> 44.1K 赞藏，欢迎来逛 → [点击主页](https://xhslink.com/m/AtEGd4scL9d)
+
 
 ---
 
@@ -102,7 +85,7 @@ class AIProductManager:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debra2559/Debra2559/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debra2559/Debra2559/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Debra2559/Debra2559/output/github-contribution-grid-snake.svg" />
+ 
 </picture>
 
 </div>
